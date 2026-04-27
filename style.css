@@ -1,0 +1,14 @@
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-g{
+    width: 267px;
+    display: block;
+}
+
+.galery{
+    
+}
+
