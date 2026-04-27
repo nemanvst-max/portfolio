@@ -1,0 +1,28 @@
+.menub{
+    background-color: rgb(144, 173, 224);
+    border-radius: 20px;
+    width: 200px;
+    
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     margin: 40px;
+
+}
+.logo{
+    width: 145px;
+}
+.btn{
+    padding: 80px;
+
+}
+.bunner{
+    background-image: url("https://i.pinimg.com/originals/fa/f2/fb/faf2fb5fdcf60f4bbc58ef751449eab0.jpg");
+    height: 500px;
+}
+.headers{
+    padding: 0px;
+}
