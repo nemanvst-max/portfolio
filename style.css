@@ -1,0 +1,35 @@
+.imgp{
+    width: 100px;
+}
+.person{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.bprof{
+    background-color: rgb(144, 173, 224);
+    width: 200px;
+    border-radius: 20px;
+}
+.but{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+}
+footer{
+    background-color: black;
+    height: 300px;
+    padding: 30px;
+}
+.uuu{
+    color: antiquewhite;
+}
+.east{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+.dddd{
+    text-align: center;
+}
