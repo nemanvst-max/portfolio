@@ -8,7 +8,22 @@
     display: block;
 }
 
-.galery{
-    
+.img-d{
+    width: 867px;
 }
 
+.t{
+   display: flex; 
+   justify-content: space-between;
+   gap: 10px;
+}
+
+.pi{
+    background-image: url("https://avatars.mds.yandex.net/i?id=cebcb04be8c6aed4f38713e4689f920498297b97-5239905-images-thumbs&n=13");
+    height: 300px;
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
